@@ -15,3 +15,40 @@ section.hero,
 footer {
     background-color: #1F2937;
 }
+
+/* Header */
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav > ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.circle {
+    display: inline-block;
+    padding: 4px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: 5px solid #F9FAF8;
+    margin-right: 5px;
+    box-sizing: border-box;
+}
