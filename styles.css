@@ -2,8 +2,16 @@
 
 body {
     font-family: Roboto, sans-serif;
+    margin: 0;
 }
 
-.container {
-    margin: 0 200px;
+header,
+section {
+    padding: 0 200px;
+}
+
+header,
+section.hero,
+footer {
+    background-color: #1F2937;
 }
