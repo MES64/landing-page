@@ -54,3 +54,51 @@ a {
     margin-right: 5px;
     box-sizing: border-box;
 }
+
+/* Hero Section */
+
+section.hero {
+    display: flex;
+    gap: 48px;
+    padding: 100px 200px;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.hero-btn {
+    margin-top: auto;
+}
+
+section.hero img {
+    flex: 1;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 0%;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.content p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 32px;
+    font-weight: 900;
+    font-size: 18px;
+    color: #F9FAF8;
+}
