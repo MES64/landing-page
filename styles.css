@@ -101,4 +101,5 @@ button {
     font-weight: 900;
     font-size: 18px;
     color: #F9FAF8;
+    cursor: pointer;
 }
