@@ -118,3 +118,14 @@ section.services p {
     color: #1F2937;
     text-align: center;
 }
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.card {
+    width: 150px;
+}
