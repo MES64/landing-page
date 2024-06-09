@@ -113,3 +113,8 @@ section.services h2 {
     text-align: center;
     margin: 48px 0px;
 }
+
+section.services p {
+    color: #1F2937;
+    text-align: center;
+}
