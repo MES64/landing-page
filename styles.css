@@ -196,3 +196,11 @@ section.call-to-action p {
     margin: 0;
     color: #E5E7EB;
 }
+
+/* Footer */
+
+footer p {
+    margin: 0;
+    color: #E5E7EB;
+    text-align: center;
+}
