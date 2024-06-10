@@ -155,3 +155,10 @@ section.quote h2 {
     font-size: 36px;
     color: #1F2937;
 }
+
+section.quote p {
+    text-align: right;
+    margin: 0 60px 0 0;
+    color: #1F2937;
+    font-weight: bold;
+}
