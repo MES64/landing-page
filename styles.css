@@ -107,7 +107,7 @@ button {
 /* Services */
 
 section.services {
-    padding: 48px 200px 150px;
+    padding: 48px 200px 75px;
 }
 
 section.services h2 {
@@ -145,7 +145,7 @@ section.services p {
 
 section.quote {
     background-color: #E5E7EB;
-    padding: 200px 200px 150px;
+    padding: 125px 200px 100px;
 }
 
 section.quote h2 {
