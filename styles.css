@@ -168,6 +168,10 @@ section.quote p {
 
 /* CTA */
 
+section.call-to-action {
+    padding: 100px 200px;
+}
+
 .cta-card {
     background-color: #3882F6;
     border-radius: 8px;
