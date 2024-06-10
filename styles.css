@@ -106,12 +106,16 @@ button {
 
 /* Services */
 
+section.services {
+    padding: 48px 200px 150px;
+}
+
 section.services h2 {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
     text-align: center;
-    margin: 48px 0px;
+    margin: 0px 0px 48px;
 }
 
 section.services p {
