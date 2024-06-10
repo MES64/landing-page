@@ -5,10 +5,6 @@ body {
     margin: 0;
 }
 
-section {
-    padding: 0 200px;
-}
-
 header,
 section.hero,
 footer {
@@ -198,6 +194,10 @@ section.call-to-action p {
 }
 
 /* Footer */
+
+footer {
+    padding: 36px 200px;
+}
 
 footer p {
     margin: 0;
