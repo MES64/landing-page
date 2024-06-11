@@ -11,6 +11,17 @@ footer {
     background-color: #1F2937;
 }
 
+button {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 32px;
+    font-weight: 900;
+    font-size: 18px;
+    color: #F9FAF8;
+    cursor: pointer;
+}
+
 /* Header */
 
 header {
@@ -87,17 +98,6 @@ h1 {
 .content p {
     font-size: 18px;
     color: #E5E7EB;
-}
-
-button {
-    background-color: #3882F6;
-    border: none;
-    border-radius: 8px;
-    padding: 8px 32px;
-    font-weight: 900;
-    font-size: 18px;
-    color: #F9FAF8;
-    cursor: pointer;
 }
 
 /* Services */
